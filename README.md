@@ -1,4 +1,4 @@
-#Patient ER Visits Report — Dashboard Overview
+# Patient ER Visits Report — Dashboard Overview
 This is a quick analysis of ER patient visits using a dataset of **11 columns and 9,216 rows**.
 The dashboard helps understand patient flow, wait times, satisfaction patterns, referrals, and demographics.
 
